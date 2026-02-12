@@ -2,6 +2,8 @@
 
 A modern, high-performance web application designed for browsing and filtering an extensive database of vehicle models. This project focuses on delivering a seamless user experience with fluid animations, robust type safety, and a responsive interface.
 
+![Project Demo](./cars.gif)
+
 
 ## 🚀 Key Features
 
