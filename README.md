@@ -2,6 +2,7 @@
 
 A modern, high-performance web application designed for browsing and filtering an extensive database of vehicle models. This project focuses on delivering a seamless user experience with fluid animations, robust type safety, and a responsive interface.
 
+
 ## 🚀 Key Features
 
 * **Advanced Filtering:** Filter vehicles by make, year, and fuel type using dynamic search criteria.
@@ -33,11 +34,11 @@ The application utilizes the **OpenDataSoft** public database to provide compreh
 🔗 [All Vehicles Model API](https://public.opendatasoft.com/explore/dataset/all-vehicles-model/information/?sort=year)
 
 ## 📁 Project Architecture
-Plaintext
+``` Plaintext
 src/
 ├── components/     # Reusable UI elements (Cards, Navbar, Filters)
 ├── hooks/          # Custom React hooks
 ├── services/       # API configuration and service layers
 ├── types/          # TypeScript interfaces and global types
 ├── pages/          # Main application views
-└── utils/          # Utility functions and constants
+└── utils/          # Utility functions and constants ```
